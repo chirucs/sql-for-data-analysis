@@ -1,5 +1,5 @@
 # SQL for Data Analysis
-This is the repository for the LinkedIn Learning course SQL for Data Analysis.
+This repository is for the SQL for Data Analysis learning course.
 
 SQL for Data Analysis
 
