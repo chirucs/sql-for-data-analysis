@@ -1,19 +1,24 @@
 # SQL for Data Analysis
-This repository is for the SQL for Data Analysis learning course.
 
-If you’re looking to get Structured Query Language into your application development, but your story is more prequel than SQL, you need to build a solid foundational knowledge of SQL analysis. In this course, instructor Nikiya Simpson starts with a quick review of SQL basics, then focuses on fundamental SQL queries used in beginning data analysis. Nikiya explains the importance of asking the right questions of your data, as well as how those questions translate into SQL. She also shows how these concepts can be used to derive quick insights from your data to help drive effective decision-making. Nikiya finishes the course by demonstrating how to incorporate queries into tools like Microsoft Power BI to help bring your data to life.
+This repository contains resources for the *SQL for Data Analysis* learning.
 
+## Course Overview
+This course is designed for those who want to integrate Structured Query Language (SQL) into their application development and build a solid foundation in SQL data analysis. Led by instructor Nikiya Simpson, the course begins with a quick refresher on SQL basics and then delves into fundamental queries essential for introductory data analysis. 
 
+Key topics include:
+- Understanding the importance of asking the right questions of your data and translating those questions into effective SQL queries.
+- Using SQL to derive meaningful insights and drive informed decision-making.
+- Incorporating SQL queries into tools like Microsoft Power BI to create impactful visualizations.
 
-## Installing
-To use these exercise files, you must have the following installed:
-1. In Chapter 5, install suggested extensions for Python and Jupyter when prompted. In Select Kernel (Type to Choose Kernel Source), Choose Python Environments -> Python 3.11.4 (Recommended).
-2. PDF Viewer for viewing ERD.
-3. Install the HTML Preview or Open in Default Browser extensions in VS Code to open html files to view.
-4. Before starting this exercise, Create V_Orders View for Chapter 5 Dashboard by running the "Create View V_Orders.sql" file.
+## Installation Instructions
+To use the exercise files provided in this repository, please ensure you have the following installed and configured:
 
+1. **Python and Jupyter**: When prompted in Chapter 5, install the recommended extensions for Python and Jupyter. For the kernel, select *Python Environments -> Python 3.11.4 (Recommended)*.
+2. **PDF Viewer**: Required for viewing Entity-Relationship Diagrams (ERD).
+3. **VS Code Extensions**: 
+   - Install the *HTML Preview* or *Open in Default Browser* extensions to open and view HTML files.
 
-## Tips
-1. For Chapter 5, restart the kernel to stop the dashboard from running on port 8050.
-
-
+## Prerequisites for Chapter 5
+Before starting the exercises in Chapter 5:
+- Create the `V_Orders` view for the dashboard by running the provided `Create View V_Orders.sql` script.
+- Restart the Python kernel to stop the dashboard from running on port 8050, if necessary.
